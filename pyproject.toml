@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "printer-monitor"
+version = "1.5"
+description = "Application de bureau Python/Tkinter de surveillance d'imprimantes via SNMP : niveaux de consommables, statut, alertes, historique et rapprochement CMDB."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "Printer Monitoring Community License v1.0"}
+dependencies = [
+    "pysnmp>=7.1.27,<8.0.0",
+    "openpyxl>=3.1.0,<4.0.0",
+    "Pillow>=10.0.0,<11.0.0",
+]
+
+[project.scripts]
+printer-monitor = "printer_monitor.main:main"
+
+[tool.setuptools.packages.find]
+include = ["printer_monitor*"]

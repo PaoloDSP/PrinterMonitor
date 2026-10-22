@@ -1,0 +1,6 @@
+# Versions majeures bornées pour éviter une rupture d'API lors d'une nouvelle
+# installation. pysnmp 7.1.27 est la version validée avec les adaptateurs
+# synchrone/asyncio de printer_monitor.py.
+pysnmp>=7.1.27,<8.0.0
+openpyxl>=3.1.0,<4.0.0
+Pillow>=10.0.0,<11.0.0

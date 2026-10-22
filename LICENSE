@@ -1,0 +1,163 @@
+# Printer Monitor
+
+> Logiciel de supervision et de gestion d'imprimantes.
+
+![Licence](https://img.shields.io/badge/licence-Source--Available-orange)
+![Utilisation commerciale](https://img.shields.io/badge/utilisation%20commerciale-autorisation%20requise-red)
+
+## 📋 Présentation
+
+**Printer Monitor** est une application permettant de superviser et gérer un parc d'imprimantes.
+
+Le projet a pour objectif de fournir une solution simple, moderne et flexible permettant notamment de suivre l'état des imprimantes, leurs compteurs et différentes informations liées au parc d'impression.
+
+Le projet est développé de manière **source-available** : son code source est accessible publiquement afin de permettre à chacun de comprendre son fonctionnement, de l'utiliser dans les conditions prévues par la licence et de contribuer à son amélioration.
+
+## ✨ Fonctionnalités
+
+Les fonctionnalités actuelles et futures du projet comprennent notamment :
+
+* 🖨️ Supervision des imprimantes
+* 📊 Suivi des compteurs d'impression
+* 🔍 Détection et suivi de l'état des imprimantes
+* 📈 Suivi des informations et statistiques
+* 🗂️ Gestion des informations du parc
+* 🔄 Synchronisation et mise à jour des données
+* 🏢 Gestion des informations de localisation
+* 🔧 Intégration avec une CMDB
+* 📡 Communication avec les imprimantes et équipements du réseau
+* 🖥️ Interface de supervision
+* ⚙️ Configuration adaptée aux environnements d'entreprise
+
+> Cette liste évoluera au fur et à mesure du développement du projet.
+
+## 🚀 Installation
+
+Les instructions d'installation seront ajoutées ici au fur et à mesure que le projet sera stabilisé.
+
+### Prérequis
+
+Les prérequis nécessaires au fonctionnement de Printer Monitor seront documentés ici.
+
+### Installation
+
+```bash
+# Exemple
+git clone https://github.com/PaoloDSP/PrinterMonitor
+cd PrinterMonitor
+```
+
+Puis suivez les instructions correspondant à votre environnement.
+
+## 🖥️ Utilisation
+
+Une fois installé, Printer Monitor permet de superviser votre parc d'imprimantes depuis son interface.
+
+La documentation détaillée concernant :
+
+* la configuration ;
+* l'ajout d'imprimantes ;
+* la supervision ;
+* la gestion des données ;
+* l'intégration avec une CMDB ;
+* les paramètres avancés ;
+
+sera progressivement ajoutée au projet.
+
+## 🛠️ Développement
+
+Les contributions au projet sont les bienvenues.
+
+Vous pouvez notamment contribuer en :
+
+* signalant des bugs ;
+* proposant des améliorations ;
+* améliorant la documentation ;
+* proposant de nouvelles fonctionnalités ;
+* corrigeant ou améliorant le code.
+
+Avant de proposer une modification importante, il est recommandé d'ouvrir une discussion ou une issue afin d'en discuter.
+
+## 🤝 Contributions
+
+Si vous souhaitez contribuer au projet, merci de consulter les éventuelles règles présentes dans [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+Toute contribution doit respecter les conditions définies dans la licence du projet.
+
+En contribuant au projet, vous acceptez également les conditions relatives aux contributions définies dans la licence.
+
+## 📜 Licence
+
+Printer Monitor est distribué sous la **Printer Monitoring Community License v1.0**.
+
+Cette licence est une licence **source-available** et **non commerciale**.
+
+### Utilisation gratuite
+
+La licence autorise notamment :
+
+* l'utilisation personnelle ;
+* l'utilisation à des fins éducatives ou de recherche ;
+* l'utilisation interne au sein d'une entreprise ou d'une organisation ;
+* la consultation du code source ;
+* la modification du code pour un usage personnel ou interne ;
+* la création de forks privés ;
+* le partage du logiciel dans les conditions autorisées par la licence.
+
+### Utilisation commerciale
+
+L'exploitation commerciale de Printer Monitor **n'est pas autorisée par la licence communautaire**.
+
+Sans licence commerciale distincte accordée par le détenteur des droits, il est notamment interdit de :
+
+* vendre Printer Monitor ;
+* vendre une version modifiée de Printer Monitor ;
+* redistribuer le logiciel dans le cadre d'un produit commercial ;
+* intégrer une partie substantielle du logiciel dans un logiciel commercial propriétaire ;
+* proposer Printer Monitor sous la forme d'un service SaaS payant ;
+* proposer le logiciel sous la forme d'un service cloud ou d'un service managé payant ;
+* fournir le logiciel ou une version dérivée à des clients payants ;
+* utiliser le logiciel comme base principale d'un produit ou service commercial.
+
+### Licence commerciale
+
+L'utilisation commerciale peut être autorisée au moyen d'une **licence commerciale distincte** accordée par le détenteur des droits.
+
+Les conditions d'une licence commerciale sont définies au cas par cas et peuvent notamment comprendre :
+
+* une licence payante ;
+* un abonnement ;
+* une redevance ;
+* un pourcentage du chiffre d'affaires ;
+* un accord de partage de revenus ;
+* ou toute autre condition convenue avec le détenteur des droits.
+
+Pour toute demande de licence commerciale, veuillez contacter le détenteur des droits.
+
+### Licence complète
+
+La licence complète est disponible dans le fichier [`LICENSE`](./LICENSE).
+
+> **Printer Monitor n'est pas un projet Open Source au sens officiel de l'Open Source Initiative (OSI).**
+>
+> Le projet est distribué sous une licence **source-available permettant l'utilisation personnelle et interne, mais nécessitant une autorisation pour toute exploitation commerciale**.
+
+## ⚖️ Droits d'auteur
+
+Copyright © 2026 **Paolo DOS SANTOS PINTO**
+
+Tous droits réservés, sous réserve des droits expressément accordés par la **Printer Monitoring Community License v1.0**.
+
+## 📩 Contact
+
+Pour toute question concernant :
+
+* le projet ;
+* les contributions ;
+* une utilisation commerciale ;
+* une licence commerciale ;
+* un partenariat ;
+
+veuillez contacter :
+
+**contact@pdsp.fr**
